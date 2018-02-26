@@ -5,5 +5,5 @@ More planets can be added to the solar systems if wanted or if only particular p
 
 Screenshots of the app are attached
 ![](/screenShot1.png)
-![](/screenShot2.png)
+![](/screenshot2.png)
 
