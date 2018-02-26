@@ -4,3 +4,6 @@ It was created using unity version 2017.1.0f3(64bit) and vuforia sdk.The target 
 More planets can be added to the solar systems if wanted or if only particular planets need to be observed that can also be done.Textures of other planets are also present. The rotational speed of different planets can be controlled by changing the speed parameter in the scripts attached.
 
 Screenshots of the app are attached
+![](/screenShot1.png)
+![](/screenShot2.png)
+
